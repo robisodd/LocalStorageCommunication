@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "robisodd",
+    "longName": "LocalStorage Communication",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "LocalStorage",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4f1abf86-da98-4ba8-b5ab-c9062b37dc10",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
