@@ -14,17 +14,12 @@ function checkStorage() {
 
 Pebble.addEventListener("showConfiguration",
   function(e) {
-    console.log("opening remote url");
+    console.log("Opening Config Page");
     Pebble.openURL("https://www.googledrive.com/host/0B47xKA4K0LGJeGJPdVdac0I5bnc");
   }
 );
 
-Pebble.addEventListener("webviewclosed",
-  function(e) {
-  }
-);
-
-
+// The code for the Config Page:
 /*
 <!DOCTYPE html>
 <html>
